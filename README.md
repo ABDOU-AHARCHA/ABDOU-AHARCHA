@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 align="center">Hey, I'm Abdelilah Aharcha 👋</h1>
-<h3 align="center">Flutter · Mobile Developer · Morocco 🇲🇦</h3>
+<h3 align="center">Flutter · Mobile Developer</h3>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Flutter+%2F+Mobile+Developer+%F0%9F%93%B1;Building+apps+that+actually+ship+%F0%9F%9A%80;Passionate+about+Mobile+%26+everything+IT;Creativity+%C2%B7+Innovation+%C2%B7+Clean+Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0096B4&center=true&vCenter=true&width=650&height=45&lines=Flutter+%2F+Mobile+Developer+%F0%9F%93%B1;Building+apps+that+actually+ship+%F0%9F%9A%80;Passionate+about+Mobile+%26+everything+IT;Creativity+%C2%B7+Innovation+%C2%B7+Clean+Code" alt="Typing SVG"/>
 
 <br/><br/>
 
