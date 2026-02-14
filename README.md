@@ -60,26 +60,6 @@ I'm a **Flutter / Mobile Developer** who is genuinely passionate about mobile de
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDOU-AHARCHA&layout=compact&theme=github_dark&bg_color=000000&border_color=0c1c28&title_color=00d4ff&text_color=1a6a8a&hide_border=false&langs_count=6"/>
-
-</div>
-
----
-
-## 🌐 &nbsp;Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-aharchataalim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aharchataalim@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020d18,100:000000&height=120&section=footer&animation=fadeIn&fontColor=00d4ff&fontSize=14&text=Creativity%20%C2%B7%20Innovation%20%C2%B7%20Clean%20Code&fontAlignY=65" width="100%"/>
