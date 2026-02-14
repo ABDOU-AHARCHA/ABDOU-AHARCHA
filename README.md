@@ -40,42 +40,21 @@ I'm a **Flutter / Mobile Developer** who is genuinely passionate about mobile de
 
 <div align="center">
 
-**📱 Flutter · Cross-Platform**
+<p>📱 &nbsp;<strong>Flutter · Cross-Platform</strong></p>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000)
-![Provider](https://img.shields.io/badge/Provider-00d4ff?style=for-the-badge&logoColor=white&labelColor=000000)
-![Hive](https://img.shields.io/badge/Hive-FF7F00?style=for-the-badge&logoColor=white&labelColor=000000)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
-![REST API](https://img.shields.io/badge/REST%20API-00d4ff?style=for-the-badge&logoColor=white&labelColor=000000)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite&theme=dark&perline=8" height="55"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<p>🤖 &nbsp;<strong>Android · Native Foundation</strong></p>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark&perline=8" height="55"/>
 
-**🤖 Android · Native Foundation**
+<br/><br/>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
-![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
+<p>🧰 &nbsp;<strong>Tools & Workflow</strong></p>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-**🧰 Tools & Workflow**
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark&perline=8" height="55"/>
 
 </div>
 
