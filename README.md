@@ -20,9 +20,7 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-I'm a **Flutter / Mobile Developer** who is genuinely passionate about mobile development — not just on paper, but in practice. I love everything related to IT, and I'm a tech-savvy person who enjoys exploring the full landscape of technology, including the web and beyond. I'm driven by **creativity and innovation**, and I believe great apps are built with both technical precision and a sharp eye for user experience.
-
-> *"I don't just write code — I build experiences people actually use."*
+I'm a **Flutter/Mobile Developer** genuinely passionate about mobile development. I enjoy everything related to IT and consider myself a tech-savvy person who loves exploring the full landscape of technologies. I'm driven by **creativity and innovation**.
 
 ---
 
