@@ -99,7 +99,7 @@ This structure reflects **growth, not randomness**.
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+  
 
 ---
 
