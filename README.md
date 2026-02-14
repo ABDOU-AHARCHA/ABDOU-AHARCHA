@@ -104,20 +104,6 @@ class Developer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelilah-aharcha&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00b4d8&icon_color=00b4d8&title_color=00b4d8&text_color=c9d1d9&hide_border=false&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilah-aharcha&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00b4d8&title_color=00b4d8&text_color=c9d1d9&hide_border=false" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdelilah-aharcha&theme=github-dark-blue&background=0d1117&border=00b4d8&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="60%"/>
-</div>
-
-<br/>
-
----
 
 ## 🌐 Let's Connect
 
