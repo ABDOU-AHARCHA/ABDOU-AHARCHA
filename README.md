@@ -1,6 +1,6 @@
 <!-- Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Animated Typing Title -->
@@ -25,7 +25,6 @@
 class Developer {
   final String name     = "Abdelilah Aharcha";
   final String role     = "Flutter Mobile Developer";
-  final String location = "Midelt, Morocco 🇲🇦";
 
   final List<String> focus = [
     "Shipping production-grade mobile apps",
@@ -104,13 +103,26 @@ class Developer {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelilah-aharcha&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=00b4d8&title_color=00b4d8&text_color=8b949e&hide_border=false&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilah-aharcha&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00b4d8&text_color=8b949e&hide_border=false" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdelilah-aharcha&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=8b949e&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="60%"/>
+</div>
+
+<br/>
+
+---
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-aharchataalim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aharchataalim@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Midelt,_Morocco-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Midelt,Morocco)
 
 </div>
 
@@ -120,7 +132,7 @@ class Developer {
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
