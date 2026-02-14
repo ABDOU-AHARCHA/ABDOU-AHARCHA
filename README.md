@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:020d18,60:041428,100:000000&height=220&section=header&text=Abdelilah%20Aharcha&fontSize=54&fontColor=00d4ff&fontAlignY=58&desc=Flutter%20%E2%80%A2%20Mobile%20Developer&descAlignY=76&descSize=15&descColor=1a4a6a&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020d18,100:000000&height=220&section=header&text=Abdelilah%20Aharcha&fontSize=54&fontColor=00d4ff&fontAlignY=52&desc=Flutter%20%E2%80%A2%20Mobile%20Developer&descAlignY=68&descSize=15&descColor=1a6a8a&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -26,7 +26,7 @@ I'm a **Flutter/Mobile Developer** genuinely passionate about mobile development
 
 ## 🔭 &nbsp;Status
 
-- 🚀 &nbsp;**Working on** &nbsp;— Building solid apps for real-world use.
+- 🚀 &nbsp;**Working on** &nbsp;— Building solid apps to release to real users
 - 🤝 &nbsp;**Collaborate** &nbsp;— Open to exciting mobile projects & ideas
 - 💼 &nbsp;**Hire me** &nbsp;— Available for freelance & full-time opportunities
 
