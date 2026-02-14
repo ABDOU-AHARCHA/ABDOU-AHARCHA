@@ -20,7 +20,7 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-I'm a **Flutter/Mobile Developer** genuinely passionate about mobile development. I enjoy everything related to IT and consider myself a tech-savvy person who loves exploring the full landscape of technologies. I'm driven by **creativity and innovation**.
+I'm a **Flutter/Mobile Developer** genuinely passionate about mobile development. I enjoy everything related to IT and I enjoy discovering new technologies and tools. I'm driven by **creativity and innovation**.
 
 ---
 
