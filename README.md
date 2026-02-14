@@ -1,47 +1,42 @@
-<!-- ████████████████████████████████████████████████████████ -->
-<!--              ABDELILAH AHARCHA — GITHUB PROFILE         -->
-<!-- ████████████████████████████████████████████████████████ -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:030507,40:0a1628,60:0d1f35,100:030507&height=200&section=header&text=Abdelilah%20Aharcha&fontSize=52&fontColor=00d4ff&fontAlignY=55&desc=Flutter%20%2F%20Mobile%20Developer&descAlignY=75&descSize=16&descColor=4a6070&animation=fadeIn" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:020d18,60:041428,100:000000&height=220&section=header&text=Abdelilah%20Aharcha&fontSize=54&fontColor=00d4ff&fontAlignY=58&desc=Flutter%20%E2%80%A2%20Mobile%20Developer&descAlignY=76&descSize=15&descColor=1a4a6a&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+solid+apps+to+ship+%F0%9F%9A%80;Flutter+%7C+Dart+%7C+Firebase+%7C+Android;Clean+Architecture+%C2%B7+Real+Deployment;Cross-platform+%E2%86%92+Production+Ready" alt="Typing SVG"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Building+apps+that+actually+ship+%F0%9F%9A%80;Flutter+%7C+Dart+%7C+Firebase+%7C+Android;Clean+Architecture+%C2%B7+Real+Deployment;From+concept+%E2%86%92+Play+Store+%E2%86%92+Users" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abdelilah-aharcha&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abdelilah-aharcha)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdelilah-aharcha&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)](https://github.com/abdelilah-aharcha)
 &nbsp;
-[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00d4ff?style=for-the-badge&logo=flutter&logoColor=white)](mailto:aharchataalim@gmail.com)
+[![Open To Work](https://img.shields.io/badge/%E2%9A%A1_STATUS-OPEN%20TO%20WORK-00d4ff?style=for-the-badge&labelColor=000000)](mailto:aharchataalim@gmail.com)
 &nbsp;
-[![Flutter](https://img.shields.io/badge/FLUTTER-DEVELOPER-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/FLUTTER-DEVELOPER-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)](https://flutter.dev)
 
 </div>
-
-<br/>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### `> whoami`
 
 ```dart
-class Aharcha {
-  final name    = "Abdelilah Aharcha";
-  final stack   = "Flutter · Dart · Firebase";
-  final android = "Kotlin · Java · Android SDK";
-  
-  final focus = [
-    "🎯  Clean architecture & production code",
+class Developer {
+  final String name  = "Abdelilah Aharcha";
+  final String role  = "Flutter Mobile Developer";
+
+  final List<String> stack = [
+    "Flutter · Dart · Firebase",
+    "Kotlin · Java · Android SDK",
+    "Hive · SQLite · REST APIs",
+  ];
+
+  final List<String> focus = [
+    "🎯  Clean architecture",
     "📱  Cross-platform Flutter apps",
-    "🔥  Firebase integration & backend",
+    "🔥  Firebase backend",
     "🚀  Ship. Iterate. Grow.",
   ];
 
@@ -55,62 +50,56 @@ class Aharcha {
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 Watch my contributions get eaten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## 🛠 &nbsp; Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 📱 Flutter · Cross-Platform
+**📱 Flutter · Cross-Platform**
 
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Provider](https://img.shields.io/badge/Provider-00d4ff?style=flat-square&logoColor=white)
 
 ```
-  Flutter SDK ████████████████░░ 90%
-  Dart        ███████████████░░░ 88%
-  Firebase    ████████████░░░░░░ 80%
-  Provider    ████████████░░░░░░ 78%
-  Hive/SQLite ██████████░░░░░░░░ 75%
-  REST APIs   ████████████░░░░░░ 80%
+Flutter SDK  ██████████████████░░  90%
+Dart         █████████████████░░░  88%
+Firebase     ████████████████░░░░  80%
+REST APIs    ████████████████░░░░  80%
+Provider     ███████████████░░░░░  78%
+Hive·SQLite  ██████████████░░░░░░  75%
 ```
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Android · Native
+**🤖 Android · Native**
 
-<div align="center">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ```
-  Kotlin      █████████░░░░░░░░░ 68%
-  Java        ████████░░░░░░░░░░ 65%
-  Android SDK █████████░░░░░░░░░ 70%
-  Room DB     ████████░░░░░░░░░░ 62%
-  Gradle      ███████░░░░░░░░░░░ 60%
+Android SDK  ██████████████░░░░░░  70%
+Kotlin       █████████████░░░░░░░  68%
+Java         ████████████░░░░░░░░  65%
+Room DB      ████████████░░░░░░░░  62%
+Gradle       ███████████░░░░░░░░░  60%
 ```
 
 </td>
@@ -119,76 +108,79 @@ class Aharcha {
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**🧰 Tools**
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0a0a0a)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a)
 
 </div>
 
 ---
 
-## 📊 &nbsp; GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdelilah-aharcha&show_icons=true&theme=github_dark&bg_color=030507&border_color=0e1f2e&icon_color=00d4ff&title_color=00d4ff&text_color=4a6070&hide_border=false&count_private=true&rank_icon=github" height="180"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=abdelilah-aharcha&show_icons=true&theme=github_dark&bg_color=000000&border_color=0c1c28&icon_color=00d4ff&title_color=00d4ff&text_color=1a4a6a&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilah-aharcha&layout=compact&theme=github_dark&bg_color=030507&border_color=0e1f2e&title_color=00d4ff&text_color=4a6070&hide_border=false&langs_count=6" height="180"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilah-aharcha&layout=compact&theme=github_dark&bg_color=000000&border_color=0c1c28&title_color=00d4ff&text_color=1a4a6a&hide_border=false&langs_count=6"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdelilah-aharcha&theme=github-dark-blue&background=030507&border=0e1f2e&stroke=0e1f2e&ring=00d4ff&fire=ff6b2b&currStreakLabel=00d4ff&sideLabels=4a6070&currStreakNum=eef4fa&sideNums=c8d6e5&dates=4a6070" width="65%"/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=abdelilah-aharcha&theme=github-dark-blue&background=000000&border=0c1c28&stroke=0c1c28&ring=00d4ff&fire=ff5e1a&currStreakLabel=00d4ff&sideLabels=1a4a6a&currStreakNum=e0f4ff&sideNums=aac8dc&dates=1a4a6a"/>
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelilah-aharcha&bg_color=030507&color=00d4ff&line=0e3a55&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" width="100%"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelilah-aharcha&bg_color=000000&color=00d4ff&line=0c2a40&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&radius=4"/>
+
 </div>
 
 ---
 
-## 🔭 &nbsp; Currently
+## 🔭 &nbsp;Currently
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   🚀  STATUS: Building apps to release to the world      ║
-║                                                          ║
-║   📱  Flutter apps — from concept to Play Store          ║
-║   🏗️  Clean architecture, real API integration           ║
-║   🔥  Firebase backend, local storage mastery            ║
-║   📦  APK / AAB — production builds                      ║
-║                                                          ║
-║   ⚡  Goal: Ship. Iterate. Grow.                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ⚡  STATUS ──────────────────────── Building to Release    ║
+║                                                              ║
+║   📱  Flutter apps  →  concept to Play Store                 ║
+║   🏗️  Clean architecture  ·  real API integration            ║
+║   🔥  Firebase backend  ·  local storage mastery             ║
+║   📦  APK / AAB  →  production builds                        ║
+║                                                              ║
+║   🚀  Goal: Ship. Iterate. Grow.                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🌐 &nbsp; Connect
+## 🌐 &nbsp;Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-aharchataalim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aharchataalim@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-aharchataalim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aharchataalim@gmail.com)
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030507,50:0a1628,100:030507&height=100&section=footer&animation=fadeIn" width="100%"/>
-  <sub>
-    <code>⚡ Abdelilah Aharcha · Flutter Developer · Morocco 🇲🇦 · 2026</code>
-  </sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020d18,100:000000&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+`⚡ Abdelilah Aharcha · Flutter Developer · Morocco 🇲🇦 · 2026`
+
 </div>
