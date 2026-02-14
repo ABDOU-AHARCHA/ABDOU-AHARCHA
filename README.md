@@ -28,11 +28,9 @@ I'm a **Flutter / Mobile Developer** who is genuinely passionate about mobile de
 
 ## 🔭 &nbsp;Status
 
-| | |
-|---|---|
-| 🚀 &nbsp;**Working on** | Building solid apps to release to real users |
-| 🤝 &nbsp;**Collaborate** | Open to exciting mobile projects & ideas |
-| 💼 &nbsp;**Hire me** | Available for freelance & full-time opportunities |
+- 🚀 &nbsp;**Working on** &nbsp;— Building solid apps to release to real users
+- 🤝 &nbsp;**Collaborate** &nbsp;— Open to exciting mobile projects & ideas
+- 💼 &nbsp;**Hire me** &nbsp;— Available for freelance & full-time opportunities
 
 ---
 
